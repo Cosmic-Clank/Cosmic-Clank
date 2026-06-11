@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Tayyab Sajid
-- I've been taken over by AI Robots.
+👋 Hi, I’m Tayyab Sajid
+I've been taken over by AI Robots.
